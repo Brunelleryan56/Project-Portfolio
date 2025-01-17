@@ -44,10 +44,6 @@ This repository contains three of my data science projects:
 
 **Contact:**
 
-*   [Your Name]
-*   [Your Email]
-*   [Your LinkedIn Profile URL (Optional)]
-
-**License:**
-
-This project is licensed under the [Choose a License - e.g., MIT License] - see the LICENSE file for details.
+*   Ryan Brunelle
+*   ryan.brunelle56@gmail.com
+*   https://www.linkedin.com/in/ryan-brunelle-7b5140224/
